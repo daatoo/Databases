@@ -1,4 +1,4 @@
-# Sports Club Requirement
+# German Soccer Club
 [Diagram Link](https://app.diagrams.net/?url=https://github.com/daatoo/Databases/raw/main/German%20Soccer%20Club/GermanSoccerClub.drawio)
 
 ## Exercise
