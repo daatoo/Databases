@@ -1,6 +1,7 @@
 # Sports Club Requirement
-[Diagram Link](https://app.diagrams.net/?url=https://github.com/daatoo/Databases/raw/main/Sports%20Club/SportsClubRequirements.drawio)
+[Diagram Link](https://app.diagrams.net/?url=https://github.com/daatoo/Databases/raw/main/University%20Library/UniversityLibrary.drawio)
 
 ## Exercise
-![image](https://github.com/user-attachments/assets/864ec2d1-43a7-4254-a69a-507a6d043186)
+![image](https://github.com/user-attachments/assets/130e865c-b30d-420a-9451-2b9391bea46d)
+
 
