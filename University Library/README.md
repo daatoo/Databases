@@ -1,4 +1,4 @@
-# Sports Club Requirement
+# University Library
 [Diagram Link](https://app.diagrams.net/?url=https://github.com/daatoo/Databases/raw/main/University%20Library/UniversityLibrary.drawio)
 
 ## Exercise
